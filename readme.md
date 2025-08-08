@@ -3,6 +3,6 @@ Hello User,
     I've automated updating of users profile at Naukri portal.
     Tech stack used are Playwright (Javascript).
 
-version - 0.0.2
+version - 0.0.3
 updates:
-    Installed playwright through command - npm init playwright@latest
+    Deleted unwanted folders created while installing playwright.
