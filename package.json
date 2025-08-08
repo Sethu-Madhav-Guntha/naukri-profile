@@ -1,5 +1,25 @@
 {
+  "name": "naukri_profile",
+  "version": "1.0.0",
+  "description": "Hello User,\r     This is Sethu Madhav Guntha.\r     I've automated updating of users profile at Naukri portal.\r     Tech stack used are Playwright (Javascript).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sethu-Madhav-Guntha/naukri-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sethu-Madhav-Guntha/naukri-profile/issues"
+  },
+  "homepage": "https://github.com/Sethu-Madhav-Guntha/naukri-profile#readme",
   "dependencies": {
     "playwright": "^1.54.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
   }
 }
